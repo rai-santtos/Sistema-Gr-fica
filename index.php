@@ -11,7 +11,7 @@
 <style>
 h1{
     font-family:Futura Md BT;
-    font-size: 35pt;
+    font-size: 30pt;
     color: white;
     text-shadow: 1px 1px 1px cyan;
 }
@@ -36,7 +36,7 @@ h1{
     width: 200px;
     height: 50px;
     font-size: 20px;
-    font-family:Cocogoose Pro SemiLight;
+    font-family:arial black;
     display: inline-block;
     text-align: center;
     line-height: 50px;
@@ -86,7 +86,7 @@ h1{
 
     <ul>
         <li>  Cliente<ul>
-            <li><a href="http://localhost/grafica/cadastro_cliente">Cadastrar</a></li> 
+            <li><a href="http://localhost/grafica/cadastro_cliente.php">Cadastrar</a></li> 
             <li>Pesquisar</li>
                 </ul>
     </li>
