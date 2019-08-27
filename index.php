@@ -11,7 +11,7 @@
 <style>
 h1{
     font-family:Futura Md BT;
-    font-size: 30pt;
+    font-size: 35pt;
     color: white;
     text-shadow: 1px 1px 1px cyan;
 }
