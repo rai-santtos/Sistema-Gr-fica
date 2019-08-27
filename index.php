@@ -20,14 +20,14 @@ h1{
 .menu ul li{
     background-color:aqua;
     float:left;
-    width: 200px;
-    height: 50px;
+    width: 180px;
+    height: 40px;
     font-size: 25px;
     font-family:Cocogoose;
     display: inline-block;
     text-align: center;
-    line-height: 50px;
-    border-radius: 5px;
+    line-height: 40px;
+    border-radius: 2px;
     color: rgb(0, 26, 73);
 }
 .menu ul ul li{
